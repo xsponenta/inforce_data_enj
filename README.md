@@ -1,5 +1,3 @@
-# inforce_data_enj
-
 # User Data ETL Project
 
 ## Overview
