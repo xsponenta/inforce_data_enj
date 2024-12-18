@@ -8,7 +8,7 @@ This project performs an ETL (Extract, Transform, Load) process to generate fake
 - Docker Compose
 
 ## Project Structure
-- `etl_script.py`: Main Python ETL script
+- `inforce_data_enj.py`: Main Python ETL script
 - `Dockerfile`: Docker configuration for the Python application
 - `docker-compose.yml`: Docker Compose configuration
 - `requirements.txt`: Python package dependencies
