@@ -18,7 +18,7 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Copy the rest of the application's code
-COPY etl_script.py .
+COPY inforce_data_enj.py .
 
 # Command to run the script
 CMD ["python", "inforce_data_enj.py"]
